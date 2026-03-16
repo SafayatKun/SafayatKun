@@ -99,14 +99,13 @@
 
 ---
 
-## 🎯 Random Dev Quote
+## 🎯 Quote by Safayat
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote by Safayat" />
 </p>
 
 ---
-
 <p align="center">
   <b>Thanks for visiting! 😊</b>
 </p>
