@@ -60,10 +60,18 @@
 
 <p align="center">
   <a href="https://www.chess.com/play/computer">
-    <img src="https://images.chesscomfiles.com/chess-themes/boards/wood/200.png" alt="Play Chess" width="400"/>
+    <img src="https://img.shields.io/badge/Play_Chess-Online-769656?style=for-the-badge&logo=chess.com" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lichess.org/">
+    <img src="https://lichess1.org/assets/images/logo/lichess-favicon-256.png" width="60" />
+    <br>
+    <strong>♔ Play on Lichess.org ♔</strong>
   </a>
   <br>
-  <i>Click the board to play against the computer</i>
+  <i>Click above to play free chess online</i>
 </p>
 ---
 
