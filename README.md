@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://www.chess.com/play/computer">
-    <img src="https://img.shields.io/badge/Play_Chess-Online-769656?style=for-the-badge&logo=chess.com" />
+    <img src="https://share.google/w3dTdYHSoa10X7Yek" />
   </a>
 </p>
 
