@@ -56,11 +56,15 @@
 </p>
 
 ---
-
-## 🐍 Snake Eating My Contributions
+## 🎮 Flappy Bird Clone
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SafayatKun/SafayatKun/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/SafayatKun/flappy-bird">
+    <img src="https://raw.githubusercontent.com/SafayatKun/flappy-bird/main/preview.gif" width="300"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://safayatkun.github.io/flappy-bird">Play Now!</a>
 </p>
 
 ---
