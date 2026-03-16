@@ -56,17 +56,17 @@
 </p>
 
 ---
-## 🎮 Flappy Bird Clone
+## ♟️ Play Chess
 
 <p align="center">
-  <a href="https://github.com/SafayatKun/flappy-bird">
-    <img src="https://raw.githubusercontent.com/SafayatKun/flappy-bird/main/preview.gif" width="300"/>
+  <a href="https://www.chess.com/play/computer">
+    <img src="https://img.shields.io/badge/Play_Chess-Online-769656?style=for-the-badge&logo=chess.com" />
   </a>
 </p>
-<p align="center">
-  <a href="https://safayatkun.github.io/flappy-bird">Play Now!</a>
-</p>
 
+<p align="center">
+  <iframe src="https://lichess.org/embed/board?theme=auto&bg=auto" width="400" height="444" frameborder="0"></iframe>
+</p>
 ---
 
 ## 📫 Connect with Me
