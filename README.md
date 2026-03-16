@@ -60,12 +60,10 @@
 
 <p align="center">
   <a href="https://www.chess.com/play/computer">
-    <img src="https://img.shields.io/badge/Play_Chess-Online-769656?style=for-the-badge&logo=chess.com" />
+    <img src="https://images.chesscomfiles.com/chess-themes/boards/wood/200.png" alt="Play Chess" width="400"/>
   </a>
-</p>
-
-<p align="center">
-  <iframe src="https://lichess.org/embed/board?theme=auto&bg=auto" width="400" height="444" frameborder="0"></iframe>
+  <br>
+  <i>Click the board to play against the computer</i>
 </p>
 ---
 
