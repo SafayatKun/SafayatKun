@@ -58,12 +58,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -71,8 +71,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical&no-frame=false&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </p>
+
+> **Note:** If trophies don't load, try [viewing them directly](https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical)
 
 ---
 
@@ -147,7 +149,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=react-dark&bg_color=0d1117&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -163,6 +165,21 @@
 ## 🎯 My Development Philosophy
 
 > "Code is not just about making things work—it's about creating solutions that make a difference. Every line of code is an opportunity to learn, grow, and build something meaningful."
+
+---
+
+## 🔧 Troubleshooting Stats
+
+If the stats aren't loading, it could be because:
+1. **The APIs are rate-limited** - Try again after a few minutes
+2. **GitHub username not found** - Make sure your username "SafayatKun" is correct
+3. **Repository visibility** - Some stats require public repositories
+
+**Alternative Stats Links:**
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=radical)
+- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=radical)
+- [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=radical)
+- [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical)
 
 ---
 
