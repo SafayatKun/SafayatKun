@@ -46,28 +46,37 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SafayatKun&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SafayatKun&color=brightgreen&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SafayatKun&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SafayatKun&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="180"/>
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SafayatKun&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true" width="350"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SafayatKun&theme=catppuccin-mocha&hide_border=true" width="350"/>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafayatKun&theme=slateorange&utcOffset=5.5" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafayatKun&theme=slateorange&utcOffset=5.5" height="180"/>
-</p>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SafayatKun&theme=slateorange&utcOffset=5.5" width="350"/>
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SafayatKun&theme=slateorange&utcOffset=5.5" width="350"/>
+</td>
+</tr>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafayatKun&theme=slateorange" height="180"/>
-  <img src="https://github-contribution-stats.vercel.app/api?username=SafayatKun&count_private=true&show_icons=true&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=xcode&hide_border=false&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&area_color=f5c2e7"/>
-</p>
-
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafayatKun&theme=slateorange" width="350"/>
+</td>
+<td>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=xcode" width="350"/>
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Trophies
