@@ -73,7 +73,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SafayatKun&theme=slateorange" width="350"/>
 </td>
 <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=xcode" width="350"/>
+<img src="https://github-contribution-stats.vercel.app/api?username=SafayatKun&count_private=true&show_icons=true&theme=radical" width="350"/>
 </td>
 </tr>
 </table>
