@@ -58,12 +58,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&icon_color=2E97F7&text_color=FFFFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E97F7&ring=2E97F7&fire=2E97F7&currStreakNum=FFFFFF&sideNums=2E97F7&currStreakLabel=2E97F7&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E97F7&text_color=FFFFFF" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -71,37 +71,15 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-> **Note:** If trophies don't load, try [viewing them directly](https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical)
-
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Telegram Bots
-- **Multi-purpose Utility Bots** - Various bots for automation, moderation, and fun
-- **Database Management Bots** - Bots integrated with MongoDB, SQL for data management
-
-### 🌐 Web Development
-- **Full Stack Applications** - Responsive websites with modern tech stack
-- **API Development** - RESTful APIs with Node.js and Express
-
----
-
-## ♟️ Hobbies & Interests
+## 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://www.chess.com/play/computer">
-    <img src="https://img.shields.io/badge/Play_Chess-Online-769656?style=for-the-badge&logo=chess.com&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Coding-Passion-2E97F7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Problem_Solving-Love-FF6B6B?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E97F7&line=2E97F7&point=FFFFFF&area=true&area_color=2E97F7" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -146,47 +124,14 @@
 
 ---
 
-## 📈 Activity Graph
+## 💡 Quote of the Day
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SafayatKun&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
 
-## 💬 Quote of the Day
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-</p>
-
----
-
-## 🎯 My Development Philosophy
-
-> "Code is not just about making things work—it's about creating solutions that make a difference. Every line of code is an opportunity to learn, grow, and build something meaningful."
-
----
-
-## 🔧 Troubleshooting Stats
-
-If the stats aren't loading, it could be because:
-1. **The APIs are rate-limited** - Try again after a few minutes
-2. **GitHub username not found** - Make sure your username "SafayatKun" is correct
-3. **Repository visibility** - Some stats require public repositories
-
-**Alternative Stats Links:**
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafayatKun&show_icons=true&theme=radical)
-- [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafayatKun&layout=compact&theme=radical)
-- [GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SafayatKun&theme=radical)
-- [GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=radical)
-
----
-
-<p align="center">
-  <b>⭐️ Thanks for visiting my profile! Feel free to connect and collaborate! ⭐️</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E97F7&height=100&section=footer" width="100%" />
 </p>
