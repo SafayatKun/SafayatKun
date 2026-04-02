@@ -55,7 +55,9 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SafayatKun&theme=onedark" />
+  </a>
 </p>
 
 ---
