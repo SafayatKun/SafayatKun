@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://t.me/SafayatKun"><img src="https://files.catbox.moe/e1bkph.jpg" alt="Safayat"></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Safayat Hossian Sardar</h1>
 <h3 align="center">Full Stack Developer | Bot Creator | Problem Solver 🚀</h3>
 
